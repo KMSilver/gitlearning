@@ -14,3 +14,4 @@ select * from dbo.全市公职人员名单 a join 疑点人员信息 b on a.统�
  
  --状态改变
  --1
+ --2
